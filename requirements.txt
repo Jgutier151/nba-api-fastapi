@@ -70,11 +70,11 @@ psutil==6.1.1
 pure_eval==0.2.3
 pycparser==2.22
 pydantic==2.10.6
-pydantic_core==2.27.2
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
 python-json-logger==3.2.1
 pytz==2025.1
+pywin32==308
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==26.2.1
